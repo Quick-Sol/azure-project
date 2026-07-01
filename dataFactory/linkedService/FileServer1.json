@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"host": "C:\\Users\\Aaryan\\Downloads\\Project",
 			"userId": "aaryan",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhM2Q4NjJkZS03NzUxLTQzMGQtYTcwOS01MTNkYjMwNjY4MDYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkN2Y5NTY1ZS0zMDMwLTQ0MzktYmE0NS04YTE1MzY5NzhkOTkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onAzureProjectIntegrationRuntime1",
